@@ -5,5 +5,5 @@ Available for windows and mac
 
 ## Change Log : 
 
-* Version 0.0.1 : 
+* Version 0.1.0 : 
 * *Simply rewrite osc message "/seq/go" to "go"
