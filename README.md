@@ -9,5 +9,7 @@ dlight is available as :
 
 ## Change Log : 
 
+* Version 0.2.0 :   
+* *Add a patch
 * Version 0.1.0 : 
 * *Simply rewrite osc message "/seq/go" to "go"
